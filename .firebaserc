@@ -1,0 +1,16 @@
+{
+  "projects": {
+    "default": "crud-operation-8b9ff"
+  },
+  "targets": {
+    "crud-operation-8b9ff": {
+      "hosting": {
+        "abhijithk": [
+          "abhijithk"
+        ]
+      }
+    }
+  },
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}

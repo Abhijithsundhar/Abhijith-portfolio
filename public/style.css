@@ -299,6 +299,9 @@ section {
   margin-bottom: 2rem;
   margin-top: 2rem;
 }
+.about-containers::-webkit-scrollbar{
+  display: none;
+}
 
 .about-details-container {
   justify-content: center;
@@ -334,6 +337,17 @@ section {
   gap: 4rem;
   height: 80%;
 }
+
+
+
+
+
+
+
+
+
+
+
 
 .section__pic-container {
   height: 400px;
